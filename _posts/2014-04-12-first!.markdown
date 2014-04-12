@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample draft post
+title: hello!
 category: posts
 ---
 
