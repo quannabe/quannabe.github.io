@@ -1,10 +1,9 @@
-name: William S. Sell
 markdown: redcarpet
 pygments: true
-
 permalink: /:title
 
-url: quannabe.github.io
+url:
 baseurl:
+
 redcarpet:
   extensions: [strikethrough, tables]
