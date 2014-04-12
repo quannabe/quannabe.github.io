@@ -1,0 +1,12 @@
+---
+layout: post
+title: Sample draft post
+category: posts
+---
+
+Well hello there!
+
+I'm currently a student, studying Computer Science, Mathematics, and Statistics. I am hoping that this blog will serve as a way for me to keep track of my thoughts and share some cool projects I am working on.
+
+---
+
