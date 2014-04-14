@@ -2,7 +2,8 @@ markdown: rdiscount
 pygments: true
 permalink: /posts/:title
 rdiscount:
-  extensions: [smart]
+  extensions:
+    - smart
 
 name: William Sell
 url: quannabe.github.io
